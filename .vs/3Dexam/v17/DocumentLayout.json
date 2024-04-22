@@ -3,32 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\Messi Sensei\\Documents\\GitHub\\3Dexam\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C00E2A29-F0FA-4428-9A24-FA14D57FD404}|3Dexam\\3Dexam.vcxproj|C:\\Users\\Messi Sensei\\Documents\\GitHub\\3Dexam\\3Dexam\\glad.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{C00E2A29-F0FA-4428-9A24-FA14D57FD404}|3Dexam\\3Dexam.vcxproj|solutionrelative:3Dexam\\glad.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{C00E2A29-F0FA-4428-9A24-FA14D57FD404}|3Dexam\\3Dexam.vcxproj|C:\\Users\\Messi Sensei\\Documents\\GitHub\\3Dexam\\3Dexam\\Dependency\\includes\\glm\\vec2.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C00E2A29-F0FA-4428-9A24-FA14D57FD404}|3Dexam\\3Dexam.vcxproj|solutionrelative:3Dexam\\Dependency\\includes\\glm\\vec2.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Messi Sensei\\Documents\\GitHub\\3Dexam\\3Dexam\\Triangle.vs||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:3Dexam\\Triangle.vs||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{C00E2A29-F0FA-4428-9A24-FA14D57FD404}|3Dexam\\3Dexam.vcxproj|C:\\Users\\Messi Sensei\\Documents\\GitHub\\3Dexam\\3Dexam\\Dependency\\includes\\glm\\mat3x4.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C00E2A29-F0FA-4428-9A24-FA14D57FD404}|3Dexam\\3Dexam.vcxproj|solutionrelative:3Dexam\\Dependency\\includes\\glm\\mat3x4.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C00E2A29-F0FA-4428-9A24-FA14D57FD404}|3Dexam\\3Dexam.vcxproj|C:\\Users\\Messi Sensei\\Documents\\GitHub\\3Dexam\\3Dexam\\Dependency\\includes\\glm\\mat3x2.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C00E2A29-F0FA-4428-9A24-FA14D57FD404}|3Dexam\\3Dexam.vcxproj|solutionrelative:3Dexam\\Dependency\\includes\\glm\\mat3x2.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C00E2A29-F0FA-4428-9A24-FA14D57FD404}|3Dexam\\3Dexam.vcxproj|C:\\Users\\Messi Sensei\\Documents\\GitHub\\3Dexam\\3Dexam\\Shader.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{C00E2A29-F0FA-4428-9A24-FA14D57FD404}|3Dexam\\3Dexam.vcxproj|solutionrelative:3Dexam\\Shader.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C00E2A29-F0FA-4428-9A24-FA14D57FD404}|3Dexam\\3Dexam.vcxproj|C:\\Users\\Messi Sensei\\Documents\\GitHub\\3Dexam\\3Dexam\\3Dexam.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{C00E2A29-F0FA-4428-9A24-FA14D57FD404}|3Dexam\\3Dexam.vcxproj|solutionrelative:3Dexam\\3Dexam.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{C00E2A29-F0FA-4428-9A24-FA14D57FD404}|3Dexam\\3Dexam.vcxproj|C:\\Users\\Messi Sensei\\Documents\\GitHub\\3Dexam\\3Dexam\\ShaderFileLoader.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C00E2A29-F0FA-4428-9A24-FA14D57FD404}|3Dexam\\3Dexam.vcxproj|solutionrelative:3Dexam\\ShaderFileLoader.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C00E2A29-F0FA-4428-9A24-FA14D57FD404}|3Dexam\\3Dexam.vcxproj|C:\\Users\\Messi Sensei\\Documents\\GitHub\\3Dexam\\3Dexam\\Shader.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{C00E2A29-F0FA-4428-9A24-FA14D57FD404}|3Dexam\\3Dexam.vcxproj|solutionrelative:3Dexam\\Shader.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{C00E2A29-F0FA-4428-9A24-FA14D57FD404}|3Dexam\\3Dexam.vcxproj|C:\\Users\\Messi Sensei\\Documents\\GitHub\\3Dexam\\3Dexam\\glad.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C00E2A29-F0FA-4428-9A24-FA14D57FD404}|3Dexam\\3Dexam.vcxproj|solutionrelative:3Dexam\\glad.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C00E2A29-F0FA-4428-9A24-FA14D57FD404}|3Dexam\\3Dexam.vcxproj|C:\\Users\\Messi Sensei\\Documents\\GitHub\\3Dexam\\3Dexam\\3Dexam.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C00E2A29-F0FA-4428-9A24-FA14D57FD404}|3Dexam\\3Dexam.vcxproj|solutionrelative:3Dexam\\3Dexam.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C00E2A29-F0FA-4428-9A24-FA14D57FD404}|3Dexam\\3Dexam.vcxproj|C:\\Users\\Messi Sensei\\Documents\\GitHub\\3Dexam\\3Dexam\\ShaderFileLoader.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{C00E2A29-F0FA-4428-9A24-FA14D57FD404}|3Dexam\\3Dexam.vcxproj|solutionrelative:3Dexam\\ShaderFileLoader.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C00E2A29-F0FA-4428-9A24-FA14D57FD404}|3Dexam\\3Dexam.vcxproj|C:\\Users\\Messi Sensei\\Documents\\GitHub\\3Dexam\\3Dexam\\ShaderFileLoader.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{C00E2A29-F0FA-4428-9A24-FA14D57FD404}|3Dexam\\3Dexam.vcxproj|solutionrelative:3Dexam\\ShaderFileLoader.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Messi Sensei\\Documents\\GitHub\\3Dexam\\3Dexam\\Triangle.vs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:3Dexam\\Triangle.vs||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Messi Sensei\\Documents\\GitHub\\3Dexam\\3Dexam\\Triangle.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}",
@@ -42,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,7 +62,46 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "vec2.hpp",
+              "DocumentMoniker": "C:\\Users\\Messi Sensei\\Documents\\GitHub\\3Dexam\\3Dexam\\Dependency\\includes\\glm\\vec2.hpp",
+              "RelativeDocumentMoniker": "3Dexam\\Dependency\\includes\\glm\\vec2.hpp",
+              "ToolTip": "C:\\Users\\Messi Sensei\\Documents\\GitHub\\3Dexam\\3Dexam\\Dependency\\includes\\glm\\vec2.hpp",
+              "RelativeToolTip": "3Dexam\\Dependency\\includes\\glm\\vec2.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-22T08:43:46.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "mat3x4.hpp",
+              "DocumentMoniker": "C:\\Users\\Messi Sensei\\Documents\\GitHub\\3Dexam\\3Dexam\\Dependency\\includes\\glm\\mat3x4.hpp",
+              "RelativeDocumentMoniker": "3Dexam\\Dependency\\includes\\glm\\mat3x4.hpp",
+              "ToolTip": "C:\\Users\\Messi Sensei\\Documents\\GitHub\\3Dexam\\3Dexam\\Dependency\\includes\\glm\\mat3x4.hpp",
+              "RelativeToolTip": "3Dexam\\Dependency\\includes\\glm\\mat3x4.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-22T08:43:45.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "mat3x2.hpp",
+              "DocumentMoniker": "C:\\Users\\Messi Sensei\\Documents\\GitHub\\3Dexam\\3Dexam\\Dependency\\includes\\glm\\mat3x2.hpp",
+              "RelativeDocumentMoniker": "3Dexam\\Dependency\\includes\\glm\\mat3x2.hpp",
+              "ToolTip": "C:\\Users\\Messi Sensei\\Documents\\GitHub\\3Dexam\\3Dexam\\Dependency\\includes\\glm\\mat3x2.hpp",
+              "RelativeToolTip": "3Dexam\\Dependency\\includes\\glm\\mat3x2.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-22T08:43:43.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Triangle.vs",
               "DocumentMoniker": "C:\\Users\\Messi Sensei\\Documents\\GitHub\\3Dexam\\3Dexam\\Triangle.vs",
               "RelativeDocumentMoniker": "3Dexam\\Triangle.vs",
@@ -58,12 +109,11 @@
               "RelativeToolTip": "3Dexam\\Triangle.vs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-04-22T08:03:05.266Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-22T08:03:05.266Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "Triangle.fs",
               "DocumentMoniker": "C:\\Users\\Messi Sensei\\Documents\\GitHub\\3Dexam\\3Dexam\\Triangle.fs",
               "RelativeDocumentMoniker": "3Dexam\\Triangle.fs",
@@ -71,25 +121,23 @@
               "RelativeToolTip": "3Dexam\\Triangle.fs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-04-22T08:03:02.845Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-22T08:03:02.845Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "glad.c",
               "DocumentMoniker": "C:\\Users\\Messi Sensei\\Documents\\GitHub\\3Dexam\\3Dexam\\glad.c",
               "RelativeDocumentMoniker": "3Dexam\\glad.c",
               "ToolTip": "C:\\Users\\Messi Sensei\\Documents\\GitHub\\3Dexam\\3Dexam\\glad.c",
               "RelativeToolTip": "3Dexam\\glad.c",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAABsAAAAAAAAA",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAIwBsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-04-21T18:29:09.774Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-21T18:29:09.774Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Shader.cpp",
               "DocumentMoniker": "C:\\Users\\Messi Sensei\\Documents\\GitHub\\3Dexam\\3Dexam\\Shader.cpp",
               "RelativeDocumentMoniker": "3Dexam\\Shader.cpp",
@@ -101,7 +149,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "ShaderFileLoader.cpp",
               "DocumentMoniker": "C:\\Users\\Messi Sensei\\Documents\\GitHub\\3Dexam\\3Dexam\\ShaderFileLoader.cpp",
               "RelativeDocumentMoniker": "3Dexam\\ShaderFileLoader.cpp",
@@ -109,23 +157,25 @@
               "RelativeToolTip": "3Dexam\\ShaderFileLoader.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-04-21T17:43:04.039Z"
+              "WhenOpened": "2024-04-21T17:43:04.039Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Shader.h",
               "DocumentMoniker": "C:\\Users\\Messi Sensei\\Documents\\GitHub\\3Dexam\\3Dexam\\Shader.h",
               "RelativeDocumentMoniker": "3Dexam\\Shader.h",
               "ToolTip": "C:\\Users\\Messi Sensei\\Documents\\GitHub\\3Dexam\\3Dexam\\Shader.h",
               "RelativeToolTip": "3Dexam\\Shader.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-04-21T17:42:01.139Z"
+              "WhenOpened": "2024-04-21T17:42:01.139Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "ShaderFileLoader.h",
               "DocumentMoniker": "C:\\Users\\Messi Sensei\\Documents\\GitHub\\3Dexam\\3Dexam\\ShaderFileLoader.h",
               "RelativeDocumentMoniker": "3Dexam\\ShaderFileLoader.h",
@@ -137,7 +187,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "3Dexam.cpp",
               "DocumentMoniker": "C:\\Users\\Messi Sensei\\Documents\\GitHub\\3Dexam\\3Dexam\\3Dexam.cpp",
               "RelativeDocumentMoniker": "3Dexam\\3Dexam.cpp",
